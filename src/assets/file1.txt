@@ -1,0 +1,12 @@
+# Header That Has Updated Content
+Suggested Wordsmith edits to the tracked doc go here, showcasing what
+changes we are applying with inline editing TBD
+
+# Header That Remains Unchanged
+Content of an unchanged section.
+
+# Also Unchanged Header
+Unchanged content of unchanged header.
+
+# Deleted Header
+Sometimes it can be deletion.

@@ -1,0 +1,13 @@
+# Header That Has Updated Content
+Suggested Wordsmith changes to the redlined document go here,
+showcasing what changes we are applying with web UI
+
+# New Header
+Sometimes it is multiple paragraph insertion.
+This paragraph has been inserted, nothing was removed.
+
+# Header That Remains Unchanged
+Content of an unchanged section.
+
+# Also Unchanged Header
+Unchanged content of unchanged header.
